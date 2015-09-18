@@ -2,10 +2,10 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>Your contact page.</h3>
+    <h3>NAIT</h3>
     <address>
-        One Microsoft Way<br />
-        Redmond, WA 98052-6399<br />
+        11762 - 106 Street Edmonton, Alberta,<br />
+        Canada, T5G 2R1<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
     </address>
